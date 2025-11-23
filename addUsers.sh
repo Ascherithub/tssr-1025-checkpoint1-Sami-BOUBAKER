@@ -1,4 +1,5 @@
 #!/bin/bash
+
 ######################################################################################################################
 # Script de Création d'utilisateurs
 # Ne pas oublier d'ajouter sudo pour démarrer le script.
